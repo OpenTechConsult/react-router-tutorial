@@ -1,5 +1,4 @@
 import React from 'react'
-import './invoices.css'
 
 const Invoices = () => {
     return (
